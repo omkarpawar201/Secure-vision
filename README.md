@@ -28,7 +28,7 @@ This project is an intelligent video surveillance system that detects suspicious
 1. Clone the repository:
    ```bash
    git clone https://github.com/omkarpawar201/Secure-vision.git
-   cd your_repository
+   cd Secure-vision
 
 2. Ensure you have the YOLO weights and configuration files:
 
