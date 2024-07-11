@@ -32,6 +32,7 @@ This project is an intelligent video surveillance system that detects suspicious
 
 2. Ensure you have the YOLO weights and configuration files:
 
+ - Download the yolov3 weights from https://pjreddie.com/media/files/yolov3.weights
  - yolov3_training_2000.weights
  - yolov3_testing.cfg
 
